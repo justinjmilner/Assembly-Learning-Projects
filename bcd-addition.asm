@@ -1,3 +1,5 @@
+	.cseg
+	.org 0
 
 	; 94 + 9 = 03, carry = 1
 	; ldi r16, 0x94
