@@ -1,6 +1,8 @@
 # AssemblyLearningProjects
 Welcome to my Assembly Language Learning Journey! This repository contains a collection of three beginner-level assembly code projects that I created while learning the fundamentals of assembly programming. These projects are a testament to my dedication to learning and mastering assembly language, showcasing my progress and problem-solving skills.
 
+A brief overview of a few of the projects in this repository:
+
 Project 1: bcd-addition - Performs Binary Coded Decimal (BCD) addition. Two packed-BCD numbers are provided in registers R16 and R17. The program adds these BCD numbers together and store the rightmost two BCD digits in register R25 while the carry value (0 or 1) is stored in R24. The code handles all legal BCD values without error checking.
 
 Project 2: edit-distance - Computing the edit distance between two byte values stored in registers R16 and R17. The edit distance is defined as the number of corresponding bits whose values are not equal.
